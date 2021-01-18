@@ -1,0 +1,20 @@
+{
+  "name": "cra-template-etnetera",
+  "version": "0.0.1",
+  "description": "The base Create React App template for Etnetera projects.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/etnetera/cra-template-etnetera.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/etnetera/cra-template-etnetera/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
